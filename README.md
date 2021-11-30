@@ -1,2 +1,2 @@
-# C_plus_plus
+# C++
 All the interview questions and c++ programming 
